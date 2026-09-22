@@ -69,6 +69,8 @@ Smart-Home-Appliance-Energy-Prediction/
 
 ## Streamlit Application
 
+Streamlit Application Link: https://smarthomeapplianceenergyprediction-abgvavnqqovhshwemf83dg.streamlit.app/
+
 The project includes an interactive Streamlit application that allows users to enter household sensor and weather measurements and receive an estimated appliance energy consumption value.
 
 The application provides:
